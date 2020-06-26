@@ -1,0 +1,28 @@
+{
+  "name": "database-persistence",
+  "version": "1.0.0",
+  "description": "Project Challenge to create an api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/btdonovan/database-persistence.git"
+  },
+  "keywords": [
+    "node",
+    "express",
+    "pg"
+  ],
+  "author": "Benjamin Todd Donovan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/btdonovan/database-persistence/issues"
+  },
+  "homepage": "https://github.com/btdonovan/database-persistence#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "pg": "^8.2.1"
+  }
+}
